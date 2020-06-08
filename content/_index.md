@@ -12,5 +12,5 @@ In my personal life, I am a fun-loving and grateful person. I like cooking and s
 ### Contact
 
   - **Website:** [`sangeetamenon.github.io`](https://sangeetamenon.github.io)
-  - **Email:** [`sangeeta1004@gmail.com`](mailto:sangeeta1004@gmail.com)
+  - **Email:** [`sangeeta.tw@gmail.com`](mailto:sangeeta1004@gmail.com)
   - **Linkedin:** [`Sangeeta Menon`](https://www.linkedin.com/in/sangeeta-menon-48a5784)
