@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech_writings on Sangeeta Menon</title>
+    <link>/tech_writing/</link>
+    <description>Recent content in Tech_writings on Sangeeta Menon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tech_writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common Mistakes in Technical Writing</title>
+      <link>/tech_writing/common_mistakes_in_technical_writing/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tech_writing/common_mistakes_in_technical_writing/</guid>
+      <description>Post coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>

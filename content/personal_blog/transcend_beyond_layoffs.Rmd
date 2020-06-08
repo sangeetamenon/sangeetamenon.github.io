@@ -1,0 +1,8 @@
+---
+date: "`r Sys.Date()`"
+title: Transcend Beyond Lay-offs
+tags:
+  - covid lay off
+---
+
+Post coming soon!

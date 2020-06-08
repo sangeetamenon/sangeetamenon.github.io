@@ -1,0 +1,52 @@
+baseurl = "/"
+languageCode = "en-us"
+publishDir = "./"
+title = "Sangeeta Menon"
+theme = "hugo-lithium"
+enableEmoji = "true"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+[[menu.main]]
+    name = "CV"
+    url = "./technical_writer_sangeeta_menon.pdf"
+    weight = "1"
+    
+[[menu.main]]
+    name = "Technical Writing"
+    url = "/tech_writing/"
+    weight = "2"
+    
+[[menu.main]]
+    name = "Personal Blog"
+    url = "/personal_blog/"
+    weight = "3"
+
+
+[params]
+    description = "Website of Sangeeta Menon"
+    author = "Sangeeta Menon"
+    dateFormat = "02 Jan 2006"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["python", "javascript", "c", "c++", "html", "css"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "sangeeta_profile_pic.jpeg"
+    width = 50
+    height = 50
+    alt = "home"
+
