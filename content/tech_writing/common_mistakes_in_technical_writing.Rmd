@@ -2,7 +2,7 @@
 date: "`r Sys.Date()`"
 title: Common Mistakes in Technical Writing
 categories:
-  - grammar and style
+  - Grammar and Style
 ---
 
 Post coming soon!
