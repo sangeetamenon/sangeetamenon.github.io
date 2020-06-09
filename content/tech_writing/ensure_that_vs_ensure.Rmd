@@ -1,0 +1,45 @@
+---
+date: "`r Sys.Date()`"
+title: Ensure That vs Ensure
+categories:
+  - Grammar and Style
+  - Best Practice
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+# “That” is the question!
+
+A prominent dilemma among writers is whether to use “**ensure that**”, or simply “**ensure**”. There is no consensus in the community about the inclusion of “*that*”, but the following discussion might shed some light.
+
+
+# Examples
+
+Consider the following sentences:
+
+  - *Before installation, __ensure that__ the md5 signature matches with the original package.*
+  
+  - *Silly example does not __ensure__ clarity.*
+
+In such use cases, “that” is an example of [`relative pronouns`](https://www.grammarly.com/blog/relative-pronouns/). At the same time, “that” also acts as a [`complimentizer`](https://en.wikipedia.org/wiki/Complementizer), which is often used in a sense similar to conjunctions.
+
+Ambiguous situations like this have no official correct answer. When faced with such confusion, trusting your educated instinct is the best bet. However, you can follow the rule of thumb:
+
+> *Use “**ensure that**” when there there is a **verb/clause** following it, and “**ensure**” when there is a **noun** following it.*
+
+Inclusion of relative pronouns and complimentizers such as “that” is quite subjective, and is best left to personal writing style, even in cases where “ensure” is followed by a verb/clause. 
+
+As an example, consider two versions of the same sentence:
+
+  - *To __ensure that__ writers comply with the best practices, editors must explain the reason behind suggested revisions.*
+  
+  - *To __ensure__ writers comply with the best practices, editors must explain the reason behind suggested revisions.*
+
+Both are correct, due to lack of any concrete guideline. I personally prefer the version with “that”, as it is more explicit.
+
+I am eager to listen to your opinion on this topic.
+
+# References
+  - [`English StackExchange thread`](https://english.stackexchange.com/questions/349598/to-ensure-vs-to-ensure-that-subject-predicate?)
+  - [`Word Reference Forum thread`](https://forum.wordreference.com/threads/ensure-that-vs-ensure.2963720/)

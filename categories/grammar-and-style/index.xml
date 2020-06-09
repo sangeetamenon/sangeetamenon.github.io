@@ -6,10 +6,22 @@
     <description>Recent content in Grammar and Style on Sangeeta Menon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/grammar-and-style/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensure That vs Ensure</title>
+      <link>/tech_writing/ensure_that_vs_ensure/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tech_writing/ensure_that_vs_ensure/</guid>
+      <description>“That” is the question! Examples References   “That” is the question! A prominent dilemma among writers is whether to use “ensure that”, or simply “ensure”. There is no consensus in the community about the inclusion of “that”, but the following discussion might shed some light.
+ Examples Consider the following sentences:
+ Before installation, ensure that the md5 signature matches with the original package.
+ Silly example does not ensure clarity.</description>
+    </item>
     
     <item>
       <title>Common Mistakes in Technical Writing</title>

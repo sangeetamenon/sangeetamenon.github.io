@@ -5,7 +5,7 @@ title = "Sangeeta Menon"
 theme = "hugo-lithium"
 enableEmoji = "true"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "sangeetamenon-github-io"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
