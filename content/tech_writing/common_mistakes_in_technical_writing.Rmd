@@ -1,8 +1,0 @@
----
-date: "`r Sys.Date()`"
-title: Common Mistakes in Technical Writing
-categories:
-  - Grammar and Style
----
-
-Post coming soon!

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech_writings on Sangeeta Menon</title>
-    <link>/tech_writing/</link>
-    <description>Recent content in Tech_writings on Sangeeta Menon</description>
+    <title>Pun on Sangeeta Menon</title>
+    <link>/tags/pun/</link>
+    <description>Recent content in Pun on Sangeeta Menon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tech_writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,18 +18,6 @@
       
       <guid>/tech_writing/awful_writer_or_aweful_writer/</guid>
       <description>Before you read If you are reading this article, I assume that the majority of you must be technical writers. The peer-review checklist might be firmly etched in your mind. Please make sure this checklist in disabled. If doing so is not possible, just click the X sign at the top-right corner of the screen. Also, if you have no sense of humor, it is mandatory to click the X sign.</description>
-    </item>
-    
-    <item>
-      <title>Ensure That vs Ensure</title>
-      <link>/tech_writing/ensure_that_vs_ensure/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tech_writing/ensure_that_vs_ensure/</guid>
-      <description>“That” is the question! Examples References   “That” is the question! A prominent dilemma among writers is whether to use “ensure that”, or simply “ensure”. There is no consensus in the community about the inclusion of “that”, but the following discussion might shed some light.
- Examples Consider the following sentences:
- Before installation, ensure that the md5 signature matches with the original package.
- Silly example does not ensure clarity.</description>
     </item>
     
   </channel>
