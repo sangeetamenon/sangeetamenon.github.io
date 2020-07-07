@@ -1,0 +1,58 @@
+---
+date: "`r Sys.Date()`"
+title: Execute Python Code
+categories:
+  - Tutorial
+  - Python
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+# Overview
+
+The following tutorial is for absolute beginners trying to learn how to execute **Python** code in a reasonably modern **Ubuntu Linux** environment. It assumes that you have *Python 3 installed in your machine* (if not, execute `sudo apt-get install python3` from the terminal). Also, you should know your way around the Ubuntu desktop interface - the bare minimum necessary for finding and launching applications like **Terminal**, **Gedit**, or **VS Code**. If you are using Gedit and VS Code but don't have an integrated terminal displayed at the bottom of the editor, you need to install some plugins. 
+
+# Steps - Script Mode
+
+1. Open your **Terminal** application from the left hand dock. If you are doing it from text editors/code editors like **Gedit** or **VS Code**, you should probably have a terminal pane open at the bottom (if not, Google about terminal plugins in Gedit or VS Code). In that case, you can do the following things from that terminal pane integrated with the editor, instead of opening the Terminal application seperately.
+
+2. In the terminal, execute the command `pwd`. You will see the present working directory, which should be `/home/<your_username>`. If it shows otherwise, it simply means that you are in a different directory. Don't worry about that - simply execute the command `cd`, and it will take you to your home directory, which is `/home/<your_username>`. You can verify that by executing the command `pwd`.
+
+3. Suppose you want to keep all your projects and practice Python programming in the directory `my_projects`. You need to create that directory. For that, execute the coomand `mkdir my_projects`, followed by executing the command `ls`. In the output, you should see the directory `my_projects` that you just created.
+
+4. Now you need to move into the newly created directory, by executing the command "cd my_projects". You are in!
+
+5. If you are using Gedit or VS Code, from the menu bar you will get menus like *File*, *Edit*, *View*, etc. Just poke around a little bit in those menus, and you should get an option similar to *Open Folder* (or something with the same semantics). Click on that, and it will let you select through a GUI which folder you would like to open. In this case, it should be `my_projects`. 
+
+6. Now that you have opened `my_projects` in your code editor, create a file `hello_world.py` within `my_projects`. You can do that by right clicking on the folder name in the left navigation pane of the editor, or by finding your way to a + sign somewhere near to the folder name in the editor's navigation pane. Once created, click on the file and it will open in the editor for you to type in your code.
+
+7. Within the file `hello_world.py`, type in the following code and then save the file:
+```
+print("Hello, World!")
+print("I am human, and I am learning Python. Let's do some arithmetic!")
+print(2 * 14)
+print("That's enough!!!")
+```
+
+8. Make sure that the file is saved. Now come down to the terminal pane in the code editor, or the separate Terminal application from whch you had executed previous commands. At this point, execute the command `pwd` to ensure that you are in the directory `/home/<your_username>/my_projects`. Also execute the command `ls` to make sure that you see the script/file you have created is present in that directory.
+
+9. Now the main part - execute the command `python3 hello_world.py`. If you see any error, just try `python hello_world.py`. This command simply means that you are calling asking the shell/terminal to invoke the appropriate Python interpretor, which then executes the file `hello_world.py`! If you have done everything correctly, you should see the following output:
+```
+Hello, World!
+I am human, and I am learning Python. Let's do some arithmetic!
+28
+That's enough!!!
+```
+
+# Steps - Interactive Mode
+
+This was the script mode, which you probably wanted. Python interpreter also offers interactive mode, where you can experiment with small code snippets and learn quickly. To play with the interactive mode:
+
+1. Open a new tab in your Terminal application (or VS Code integrated terminal; Gedit generally has an inbuilt Python interpreter already running for you, just beside the terminal pane). 
+
+2. Execute the command `python3`. You will be greeted by the Python interpretors interactive prompt. 
+
+3. Now you can type in a single line from the script file, and hit enter - you will see the results instantly. Repeat the lines for practice. You will also notice some difference in the output of the script execution and the outputs of the interactive mode. At this point, don't worry about it. 
+
+4. To exit the interactive mode, just execcute `exit()` from the interactive prompt.

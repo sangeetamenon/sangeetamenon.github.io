@@ -6,10 +6,19 @@
     <description>Recent content on Sangeeta Menon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Execute Python Code</title>
+      <link>/tech_writing/execute_python_code/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tech_writing/execute_python_code/</guid>
+      <description>Overview Steps - Script Mode Steps - Interactive Mode   Overview The following tutorial is for absolute beginners trying to learn how to execute Python code in a reasonably modern Ubuntu Linux environment. It assumes that you have Python 3 installed in your machine (if not, execute sudo apt-get install python3 from the terminal). Also, you should know your way around the Ubuntu desktop interface - the bare minimum necessary for finding and launching applications like Terminal, Gedit, or VS Code.</description>
+    </item>
     
     <item>
       <title>Awful Writer or “Awe”full Writer</title>

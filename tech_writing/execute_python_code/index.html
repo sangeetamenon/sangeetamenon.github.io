@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.72.0" />
+
+
+<title>Execute Python Code - Sangeeta Menon</title>
+<meta property="og:title" content="Execute Python Code - Sangeeta Menon">
+
+
+  <link href='../../favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="../../css/fonts.css" media="all">
+<link rel="stylesheet" href="../../css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="../../" class="nav-logo">
+    <img src="../../images/sangeeta_profile_pic.jpeg"
+         width="50"
+         height="50"
+         alt="home">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="./cv/technical_writer_sangeeta_menon.pdf">CV</a></li>
+    
+    <li><a href="../../tech_writing/">Technical Writing</a></li>
+    
+    <li><a href="../../personal_blog/">Personal Blog</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">4 min read</span>
+    
+
+    <h1 class="article-title">Execute Python Code</h1>
+
+    
+    <span class="article-date">
+      07 Jul 2020<br>
+      <br>
+    </span>
+    
+
+    <div class="article-content">
+      
+
+<div id="TOC">
+<ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#steps---script-mode">Steps - Script Mode</a></li>
+<li><a href="#steps---interactive-mode">Steps - Interactive Mode</a></li>
+</ul>
+</div>
+
+<div id="overview" class="section level1">
+<h1>Overview</h1>
+<p>The following tutorial is for absolute beginners trying to learn how to execute <strong>Python</strong> code in a reasonably modern <strong>Ubuntu Linux</strong> environment. It assumes that you have <em>Python 3 installed in your machine</em> (if not, execute <code>sudo apt-get install python3</code> from the terminal). Also, you should know your way around the Ubuntu desktop interface - the bare minimum necessary for finding and launching applications like <strong>Terminal</strong>, <strong>Gedit</strong>, or <strong>VS Code</strong>. If you are using Gedit and VS Code but don’t have an integrated terminal displayed at the bottom of the editor, you need to install some plugins.</p>
+</div>
+<div id="steps---script-mode" class="section level1">
+<h1>Steps - Script Mode</h1>
+<ol style="list-style-type: decimal">
+<li><p>Open your <strong>Terminal</strong> application from the left hand dock. If you are doing it from text editors/code editors like <strong>Gedit</strong> or <strong>VS Code</strong>, you should probably have a terminal pane open at the bottom (if not, Google about terminal plugins in Gedit or VS Code). In that case, you can do the following things from that terminal pane integrated with the editor, instead of opening the Terminal application seperately.</p></li>
+<li><p>In the terminal, execute the command <code>pwd</code>. You will see the present working directory, which should be <code>/home/&lt;your_username&gt;</code>. If it shows otherwise, it simply means that you are in a different directory. Don’t worry about that - simply execute the command <code>cd</code>, and it will take you to your home directory, which is <code>/home/&lt;your_username&gt;</code>. You can verify that by executing the command <code>pwd</code>.</p></li>
+<li><p>Suppose you want to keep all your projects and practice Python programming in the directory <code>my_projects</code>. You need to create that directory. For that, execute the coomand <code>mkdir my_projects</code>, followed by executing the command <code>ls</code>. In the output, you should see the directory <code>my_projects</code> that you just created.</p></li>
+<li><p>Now you need to move into the newly created directory, by executing the command “cd my_projects”. You are in!</p></li>
+<li><p>If you are using Gedit or VS Code, from the menu bar you will get menus like <em>File</em>, <em>Edit</em>, <em>View</em>, etc. Just poke around a little bit in those menus, and you should get an option similar to <em>Open Folder</em> (or something with the same semantics). Click on that, and it will let you select through a GUI which folder you would like to open. In this case, it should be <code>my_projects</code>.</p></li>
+<li><p>Now that you have opened <code>my_projects</code> in your code editor, create a file <code>hello_world.py</code> within <code>my_projects</code>. You can do that by right clicking on the folder name in the left navigation pane of the editor, or by finding your way to a + sign somewhere near to the folder name in the editor’s navigation pane. Once created, click on the file and it will open in the editor for you to type in your code.</p></li>
+<li>Within the file <code>hello_world.py</code>, type in the following code and then save the file:</li>
+</ol>
+<pre><code>print(&quot;Hello, World!&quot;)
+print(&quot;I am human, and I am learning Python. Let&#39;s do some arithmetic!&quot;)
+print(2 * 14)
+print(&quot;That&#39;s enough!!!&quot;)</code></pre>
+<ol start="8" style="list-style-type: decimal">
+<li><p>Make sure that the file is saved. Now come down to the terminal pane in the code editor, or the separate Terminal application from whch you had executed previous commands. At this point, execute the command <code>pwd</code> to ensure that you are in the directory <code>/home/&lt;your_username&gt;/my_projects</code>. Also execute the command <code>ls</code> to make sure that you see the script/file you have created is present in that directory.</p></li>
+<li>Now the main part - execute the command <code>python3 hello_world.py</code>. If you see any error, just try <code>python hello_world.py</code>. This command simply means that you are calling asking the shell/terminal to invoke the appropriate Python interpretor, which then executes the file <code>hello_world.py</code>! If you have done everything correctly, you should see the following output:</li>
+</ol>
+<pre><code>Hello, World!
+I am human, and I am learning Python. Let&#39;s do some arithmetic!
+28
+That&#39;s enough!!!</code></pre>
+</div>
+<div id="steps---interactive-mode" class="section level1">
+<h1>Steps - Interactive Mode</h1>
+<p>This was the script mode, which you probably wanted. Python interpreter also offers interactive mode, where you can experiment with small code snippets and learn quickly. To play with the interactive mode:</p>
+<ol style="list-style-type: decimal">
+<li><p>Open a new tab in your Terminal application (or VS Code integrated terminal; Gedit generally has an inbuilt Python interpreter already running for you, just beside the terminal pane).</p></li>
+<li><p>Execute the command <code>python3</code>. You will be greeted by the Python interpretors interactive prompt.</p></li>
+<li><p>Now you can type in a single line from the script file, and hit enter - you will see the results instantly. Repeat the lines for practice. You will also notice some difference in the output of the script execution and the outputs of the interactive mode. At this point, don’t worry about it.</p></li>
+<li><p>To exit the interactive mode, just execcute <code>exit()</code> from the interactive prompt.</p></li>
+</ol>
+</div>
+
+    </div>
+  </article>
+
+  
+<section id="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var d = document, s = d.createElement('script');
+    s.src = '//sangeetamenon-github-io.disqus.com/embed.js'; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            Sort by <a href="https://sangeetamenon.github.io/categories/" class="footer-links-kudos" target="_blank">Categories</a> | <a href="https://sangeetamenon.github.io/tags/" class="footer-links-kudos" target="_blank">Tags</a>
+          </li>
+        </ul>
+        <br>
+        <ul class="footer-links">
+          <li>
+            &copy; 2020 - Sangeeta Menon
+          </li>
+        </ul>
+      </footer>
+    
+    
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/javascript.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/c.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/c&#43;&#43;.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/html.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/css.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+
