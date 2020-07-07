@@ -56,4 +56,4 @@ This was the script mode, which you probably wanted. Python interpreter also off
 
 3. Now you can type in a single line from the script file, and hit enter - you will see the results instantly. Repeat the lines for practice. You will also notice some difference in the output of the script execution and the outputs of the interactive mode. At this point, don't worry about it. 
 
-4. To exit the interactive mode, just execcute `exit()` from the interactive prompt.
+4. To exit the interactive mode, just execute `exit()` from the interactive prompt.
