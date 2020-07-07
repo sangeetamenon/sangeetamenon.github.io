@@ -38,7 +38,7 @@ print("That's enough!!!")
 
 8. Make sure that the file is saved. Now come down to the terminal pane in the code editor, or the separate Terminal application from whch you had executed previous commands. At this point, execute the command `pwd` to ensure that you are in the directory `/home/<your_username>/my_projects`. Also execute the command `ls` to make sure that you see the script/file you have created is present in that directory.
 
-9. Now the main part - execute the command `python3 hello_world.py`. If you see any error, just try `python hello_world.py`. This command simply means that you are calling asking the shell/terminal to invoke the appropriate Python interpretor, which then executes the file `hello_world.py`! If you have done everything correctly, you should see the following output:
+9. Now the main part - execute the command `python3 hello_world.py`. If you see any error, just try `python hello_world.py`. This command simply means that you are asking the shell/terminal to invoke the appropriate Python interpretor, which then executes the file `hello_world.py`! If you have done everything correctly, you should see the following output:
 ```
 Hello, World!
 I am human, and I am learning Python. Let's do some arithmetic!
