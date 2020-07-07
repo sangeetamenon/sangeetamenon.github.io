@@ -1,0 +1,36 @@
+---
+date: "`r Sys.Date()`"
+title: Imapct of COVID-19 on the IT Industry
+categories:
+  - Business Affairs
+tags:
+  - IT
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+Corona. Covid-19. The very word invokes fear in the mind and prayer on the lips. When the first case was detected in China no one had an inkling about its global consequences.
+
+In fact, the news was probably taken with a pinch of salt. It is when the cases spiked across the globe that the entire situation spiralled out of control. Given the lethality of the virus, the fear was palpable. As the Covid-19 crisis worsened, strict social distancing measures were maintained to avoid the severe health catastrophe. In some cases, there was a universal shutdown of the manufacturing services and transport sector causing the disruption of the supply chain balance. Tourism and hospitality sector was at risk to shut down. IT industry called for diversion of the current work-at-office model to new work-from-home model. It is imperative to understand that this also lead to the shift in the functioning of the global economic ecosystem. With everyone in the lockdown mode, the general shopping behaviour and other luxury spendings came to an halt and the spendings was primary focused on food and medicines.
+
+Research findings show close to 1.4 million US small businesses closed permanently within the first four months of the pandemic. With the looming financial crises, the top employers found themselves at a point where there was no option but to let go few of their employees to maintain the financial health of the company. The entire world had sunk into a bottomless economic slump never seen before.
+
+IT industry was also hit badly because of the Covid-19 crisis with a few companies going into complete oblivion, some going into decline, and some navigatimg the crisis successfully.
+
+Software as a Service (SaaS) was in the middle of reshaping the whole enterprise-software industry. With increase demand for remote-working, the SaaS companies saw the massive growth for deployment of digital solutions at a lower cost. SaaS companies such as Zoom and Okta did very well, with Zoom being the most successful example. Revenue upped by impressionable 169% year-over-year as the corporates shifted to online meetings.
+
+Businesses that adapted the agile methodology performed better than the other non-agile models, mainly because of the principle of flexibility. The shifting business priorities allowed 20 percent of the work to be re-prioritised with the agile team quickly aligned to the new business objectives.
+
+For example, the telecom sector saw a huge increase in the demand for additional bandwidth and data streaming. The non-agile business players took a longer turnaround time than their peer agile business players to provide the services, thus pushing their revenues down. The agile business redefined priorities and responded faster to deploy those on-demand services.
+
+Research indicates that the B2B business saw the shift in buying trends. Modeling after the popular B2C, the digital sales kept such businesses afloat. The B2B business required careful marketing to speed up the profits margins and define a novel business-oriented strategy to keep the brand awareness high.
+
+During this pandemic, alternate data demand surged for more real-time data. The alternate data is mined and analysed to help data-driven decisions. Some research firms leveraged their business and turned alt-data providers to provide corporate data from various sources and services to analyze that data for bussiness objectives.
+
+With people locked down at homes, the demand for entertainment increased manifold. Gaming and entertaintment industry also saw swelling of the balance sheet, mainly because it was the only recreation available when self-isolated. The Gaming and the Entertainment bussinesses capitalised on this need and saw a huge jump in profits.
+
+However, there was also a negative impact on business felt by certain technology players who were depending on hardware technical supplies. China is the major provider of those supplies. Due to the pandemic and enforced lockdown, some factories and production units were closed down or provided supplies in limited quantity. The unavailability of the materials brought down the smartphones production significantly. This the prime reason why 5G iPhone and iPhone SE2 delayed their release in the market in April 2020.
+
+As the world struggle to revive the global economy, it is time to strike a balance between lives and livelihood. The good news is the Covid-19 has better recovery rate than before and the different treatments are found to be effective. We are at a critical stage where crucial business needs should be addressed, particularly for those in the IT sector, given it has a symbiotic relationship with all the
+other industrial sectors.

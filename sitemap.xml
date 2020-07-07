@@ -9,6 +9,11 @@
   </url>
   
   <url>
+    <loc>/categories/business-affairs/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
@@ -19,7 +24,27 @@
   </url>
   
   <url>
-    <loc>/categories/python/</loc>
+    <loc>/personal_blog/covid_impact_it_industry/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/it/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal_blog/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,22 +79,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tech_writing/ensure_that_vs_ensure/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/covid-lay-offs/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/personal_blog/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
