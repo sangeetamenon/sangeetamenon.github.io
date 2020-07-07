@@ -20,7 +20,7 @@ The following tutorial is for absolute beginners trying to learn how to execute 
 
 2. In the terminal, execute the command `pwd`. You will see the present working directory, which should be `/home/<your_username>`. If it shows otherwise, it simply means that you are in a different directory. Don't worry about that - simply execute the command `cd`, and it will take you to your home directory, which is `/home/<your_username>`. You can verify that by executing the command `pwd`.
 
-3. Suppose you want to keep all your projects and practice Python programming in the directory `my_projects`. You need to create that directory. For that, execute the coomand `mkdir my_projects`, followed by executing the command `ls`. In the output, you should see the directory `my_projects` that you just created.
+3. Suppose you want to keep all your projects and practice Python programming in the directory `my_projects`. You need to create that directory. For that, execute the command `mkdir my_projects`, followed by executing the command `ls`. In the output, you should see the directory `my_projects` that you just created.
 
 4. Now you need to move into the newly created directory, by executing the command `cd my_projects`. You are in!
 
