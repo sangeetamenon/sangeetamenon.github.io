@@ -1,6 +1,6 @@
 ---
 date: "`r Sys.Date()`"
-title: Imapct of COVID-19 on the IT Industry
+title: Impact of COVID-19 on the IT Industry
 categories:
   - Business Affairs
 tags:
