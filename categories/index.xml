@@ -6,44 +6,44 @@
     <description>Recent content in Categories on Sangeeta Menon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Business Affairs</title>
-      <link>/categories/business-affairs/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/business-affairs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>/categories/tutorial/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Best Practice</title>
       <link>/categories/best-practice/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/best-practice/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Business Affairs</title>
+      <link>/categories/business-affairs/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/business-affairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grammar and Style</title>
       <link>/categories/grammar-and-style/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/grammar-and-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/categories/tutorial/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tutorial/</guid>
       <description></description>
     </item>
     

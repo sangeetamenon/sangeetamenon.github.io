@@ -1,12 +1,10 @@
 # Sangeeta Menon
 
-**SOS --- URGENTLY LOOKING FOR A JOB**
-
 ### About Me
 
-I am a **Technical Writer** with more than **16 years of experience** in creating and managing technical information for engineering and software products. I have primarily worked in domains such as *Networking*, *Telecommunications*, and *Health Care*.
+I am a **Technical Writer** with more than **16 years of experience** in creating and managing technical information for engineering and software products. I have primarily worked in domains such as *Telecommunications*, *Networking*, and *Health Care*.
 
-I am a fun-loving and grateful person who likes cooking and spending time with family. In my spare time, I write in this website. 
+On a personal note, I am fun-loving and grateful for what life has given me. I like cooking and spending time with family. In my spare time, I write in this website. 
 
 
 ### Contact
